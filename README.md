@@ -16,7 +16,7 @@ Social Messaging, powered by a robust tech stack of Spring Boot, JWT, and Spring
 ## Database
 <img src="https://i.ibb.co/zs96dJH/sql-txt.png" alt="Alt Text" width="700"/>
 
-### Key Features::
+## Key Features:
 
 1. **Secure Authentication:**  Utilizes JWT and Spring Security to guarantee a secure and authenticated user experience.
 
@@ -29,8 +29,9 @@ Social Messaging, powered by a robust tech stack of Spring Boot, JWT, and Spring
 5. **Personalization and Engagement:** Enables users to customize their profiles, and discover and follow friends, fostering a highly engaging and personalized social network.
 
 
-##User Capabilities:
-Users can seamlessly:
+## User Capabilities:
+
+### Users can seamlessly:
 
 1. **Post Content:** Share their moments through image or text-based posts.
 2. **Interact with Posts:** Like, comment, and save posts to personalize their feed.
