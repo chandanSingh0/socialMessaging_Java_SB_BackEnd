@@ -8,7 +8,6 @@
 Social Messaging, powered by a robust tech stack of Spring Boot, JWT, and Spring Security, establishes a secure and efficient backend API for an Instagram-like application. Leveraging MySQL for data management, it ensures a seamless and dynamic social media experience.
 
 ## Tech-Stacks:
-    - Frontend: HTML, CSS, JavaScript.
     - Backend: Java, Spring-Boot, Spring-Data-JPA
     - Database: MYSQL.
     - User Authentication: JWT (JSON Web Tokens)
